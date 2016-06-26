@@ -1,0 +1,193 @@
+/* --------------------------------------------------------------------------------------- */
+/*  ----- Michael Grenier, 2011, Produced for the XNoise Community ----------------------- */
+/* --------------------------------------------------------------------------------------- */
+
+/* ------- GLOBAL STYLES HERE ------------------------------------------------------------ */
+
+body	{
+	background:			#222222; 
+	font-family:		Verdana, Geneva, sans-serif;
+}
+	
+#container					{
+	width: 				870px;
+	margin:				0 auto;	
+	}
+
+a 	{
+		color:			#333;
+		text-decoration: none;
+		font-weight:		bold;	
+	}
+	
+h2	{
+	font-size:			200%;
+	margin-bottom:		.5em;
+	}
+h3	{
+	font-weight:		bold;
+	font-size:			120%;
+	}
+	
+p	{
+	margin-bottom:		1em;	
+	}
+	
+/* ------- DEFINE SLIDESHOW HERE --------------------------------------------------------- */
+
+#slideshow	{
+	width:				805px;
+	margin:				0 auto;
+	color:				#EEE;
+	}
+
+#slideshow div	{
+	height:				620px;
+	width:				850px;
+	padding:				10px;
+	}
+	
+#slideshow div div	{
+	/*width:				816px;*/
+	width:				300px;
+	max-height:			385px;
+	display:				none;
+	font-size:			100%;
+	line-height: 		1.2em;
+	background:			url('images/backgrounds/pixel.png') right top;
+	position: 			absolute;
+	top:					15px;
+	left:					-9999px;
+	border:				2px solid #CCC;
+	border-radius:		5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	}
+	
+#slideshow div:hover div	{
+	display:	 			block;
+	left:					533px;
+		}
+	
+/* ------- DEFINE NAVBAR HERE ------------------------------------------------------------ */	
+
+	
+#navbar	{
+	float:				left;	
+	}	
+	
+#pager	{
+	display:				block;
+	margin-left:		0px;
+	}	
+	
+#navbar, #pager	{
+	top:					0px;
+	position:			absolute;
+	z-index: 			200;
+	}
+	
+.navbutton {
+	display:				inline-block;
+	margin:				0 10px;
+	}
+	
+.pagerbuttonprev	{
+	border-radius:		4px 0px 0px 4px;
+	-moz-border-radius:		4px 0px 0px 4px;
+	-webkit-border-radius:	4px 0px 0px 4px;
+	}
+	
+.pagerbuttonnext	{
+	border-radius:		0px 4px 4px 0px;
+	-moz-border-radius:		0px 4px 4px 0px;
+	-webkit-border-radius:	0px 4px 4px 0px;
+	}	
+	
+.pagerbutton	{
+	display:				inline;
+	}	
+	
+.navbutton a 	{
+	border-radius:		4px;
+	-moz-border-radius:		0px;
+	-webkit-border-radius:	0px;
+	}
+	
+.navbutton ul	{
+	position: 			absolute;
+	top:					14px;
+	left:					-9999px;
+	}
+	
+.navbutton:hover ul	{
+	left:					auto;
+	padding-top:		.75em;
+	}
+	
+.navbutton ul li a {
+	width:				100%;
+	display:				inline-block;
+	}
+
+.buttonTop	{
+	border-radius:		4px 4px 0px 0px ! important;
+	-moz-border-radius:		4px;
+	-webkit-border-radius:	4px;
+	}	
+
+.buttonMiddle	{
+	border-radius: 0px ! important;
+	border-top-style:	none ! important;
+	background-image: none ! important;
+	}
+	
+.buttonBottom	{
+	border-radius:		0px 0px 4px 4px ! important;
+	background-image: none ! important;
+	border-top-style:	none ! important;
+	}
+
+#container ol li a	{
+	padding:				5px 10px;
+	background: 		#dddddd  repeat-x right top;
+	border:				1px solid #A6A6A6;
+	border-bottom:		1px solid #666;
+	border-right:		1px solid #666;
+	}
+	
+#container ol li a:hover	{
+	background: 		#999999 repeat-x right top;
+	border:				1px solid #666;
+	border-top:			1px solid #A6A6A6;
+	border-left:		1px solid #A6A6A6;
+	}
+
+
+
+/* ------- DEFINE CONTENT HERE ----------------------------------------------------------- */
+
+#content	{
+	width:				900px;
+	min-height:			300px;
+	margin:				30px auto;
+	padding:				10px 20px;
+	background: 		#CDCDCD url('images/gradient.png') repeat-x right top;
+	border:				1px solid #A6A6A6;
+	border-bottom:		2px solid #999;
+	border-right:		2px solid #999;
+	border-radius:		10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	color:				#333;
+	float:				left;
+	position:			relative;
+	top:					0px;
+	z-index:				+100;
+	line-height:		1.5em;
+	}
+
+#content ul	{
+	padding-left:		4em;
+	list-style-type: 	circle;
+	}
