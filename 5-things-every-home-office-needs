@@ -1,0 +1,73 @@
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Michael Grenier, produced 2011 for the XNoise Community
+      modified by shuerhaaken
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+<!DOCTYPE HTML>
+<html lang="en">
+<meta charset="UTF-8">
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      INSERT SCRIPTS AND EXTERNAL STYLES HERE!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+      <link href="reset.css" rel="stylesheet" type="text/css">
+      <link href="index.css" rel="stylesheet" type="text/css">
+      <link type="image/x-icon" href="images/xnoise.png" rel="shortcut icon">
+
+<title>Xnoise Media Player || 5 Things Every Home Office Needs</title>
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+</script>
+
+
+
+
+
+<body>
+
+<div id="container">
+      
+      
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      DEFINE NAVBAR HERE!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->           
+
+            <ol id="navbar">
+                  <li class="navbutton"><a href="#">Home</a></li>
+                  <li class="navbutton"><a href="https://bitbucket.org/shuerhaaken/xnoise/downloads">Downloads</a>
+                  <ul>
+                        <li><a href="https://bitbucket.org/shuerhaaken/xnoise/downloads" class="buttonTop">xnoise</a></li>
+                        <li><a href="https://bitbucket.org/shuerhaaken/libtaginfo" class="buttonBottom">libtaginfo</a></li>
+                  </ul>
+                  </li>
+                  <li class="navbutton"><a href="http://groups.google.com/group/xnoise">Mailing List</a></li>
+                  <li class="navbutton"><a href="https://bitbucket.org/shuerhaaken/xnoise/overview">Source Code</a>
+                  <li class="navbutton"><a href="#SEC_Shots">Screenshots</a>
+                  <li class="navbutton"><a href="#SEC_Vid">Video</a>
+                  <li class="navbutton"><a href="blog.html">Blog</a>
+                  </li>
+            </ol>
+            
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      DEFINE CONTENT HERE!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->     
+      
+      <div id="content">
+            <img src="images/xnoise_logo_darksmall.png" style="margin: 0 auto;display: block;"></img>
+            <p> </p>          
+            <h1>5 Things Every Home Office Needs</h1>
+            <p>Many young people and entrepreneurs work from home today, although, there are a number of people who keep a home office away from work just in case they need it. Ideally, you already have an empty room in your home or apartment that you can use and transform it into a home office, but even if you don&rsquo;t, you can use partitions and separate the area where you will place your desk, your computer and other necessities to complete a home office.</p>
+            <p>Below, we have gathered several items and features that a home office needs, although these are not exclusive to home offices, and can be used to improve upon any workplace. The office is not only a place where a person does their work. It also needs to have such features as to enable the person to be productive and effective, and to make the time a person spends at the office pleasant and comfortable, if not outright enjoyable.</p>
+            <h2>1.&nbsp;&nbsp;&nbsp; Lots of light</h2>
+            <p>One of the most important things in the office is light. Having a brightly lit office can increase a person&rsquo;s productivity and have a positive effect on their mood, keeping them in high spirits during the working hours. Ideally, the office would have big windows letting in lots of natural sunlight, but if this is not possible, than you should get creative and consider installing diffused lightning around the office. Direct lightning can also have a positive effect on a person&rsquo;s mood and increase their creativity, but it can also be tiring for the eyes, especially if the light is not distributed properly. On the other hand, dim offices make for low productivity, and can make a person more tired, especially since the glare from a computer screen can have a negative effect on the person&rsquo;s eyes and cause damage long term.</p>
+            <h2>2.&nbsp;&nbsp;&nbsp; Music</h2>
+            <p>With good speakers and a great music player, you can add music to your office. Maybe music is not so common in an office working place, but at home, you can allow yourself to enhance your home office with music. You can use music to provide ambient, background sounds that will anchor you and not allow you to get lost in the silence of a home office, or you can use uplifting music that will enhance your creativity. One of the best media players for home offices is Xnoise. It is a media player for GTK+ and its usefulness stems from its intuitive interface, allowing users to choose, keep and discard music tracks at will, and its relative lightness &ndash; using it will not encumber your system and make your other programs lag, which is highly important in keeping yourself effective and productive. In addition to music files, with Xnoise you can play videos without needing another media player, and the sound is always crisp and clear. You can create playlists that will be saved in a library, and you can always add and remove songs from the media library to your playlists.</p>
+            <h2>3.&nbsp;&nbsp;&nbsp; Whiteboard</h2>
+            <p>Many innovative plans, designs and products have begun as sketches on a whiteboard. Today, a whiteboard is an essential part of every office. You can have a separate physical board, and today, there are many varieties, including boards made of glass, but if you lack space, you can turn one of the walls of your office, or a section of a wall into whiteboard space with this <a href="https://www.remarkablecoating.com/">white board paint kit</a>. You can use transparent or colored paints, further uplifting the environment of your office, and on your whiteboard, you can plan your big projects, or create mind maps that you will follow to finish your tasks quickly and efficiently. Even if you&rsquo;re not a designer, there are great benefits from having a whiteboard in your home office, which is why a whiteboard is one of the essential things an office needs.</p>
+            <h2>4.&nbsp;&nbsp;&nbsp; Big desk and ergonomic chair</h2>
+            <p>You might think that you will make do with a small desk that&rsquo;s big enough for your computer, computer screen and a chair, and you will be all ready to go. But, once you start working you will realize that your chair is causing you to slouch as you work, your desk is cluttered because it doesn&rsquo;t leave space for other documents, and that you get tired easily. This has both short term negative effects (negative impact on your effectiveness and productivity) and long term negative effects, as slouching during your working hours can cause damages to your spine and posture. Invest in a big desk and an ergonomic chair. You need to be comfortable as you work, and you also need space on your desk for documents, pens, pencils and other seemingly miniature things like coffee cups or bottles of water.</p>
+            <h2>5.&nbsp;&nbsp;&nbsp; Miscellaneous gadgets</h2>
+            <p>Your home office is not only the place where you work &ndash; it&rsquo;s also the place that you can personalize to your own specific needs without being limited from anyone, not a boss or another coworker that shares the space with you. You need to analyze your work and decide on whether you need a printer (which, in turn, means you need to find the optimal position of it within your office), whether you need storage space, electrical outlets, and how many of them. It&rsquo;s funny how annoying it can get when you&rsquo;re working away on your laptop and it runs out of battery, so you need to waste time finding the charger, finding an outlet to plug it in, and so on. In addition, you need to think not only of storage space for your paper documents, you also need storage for other office amenities, like notebooks, paper clips, post-it notebooks, pens, pencils, and others. Other gadgets can include mini refrigerators for drinks and water bottles, a coffeemaker, although, since you are working a few meters away from your own kitchen, they might not be necessary. But, you still need to imagine what your usual day at your home office would look like, and make sure that you have all small, seemingly insignificant things covered, because their absence can cause you to lose focus and negatively impact your productivity.&nbsp;</p>      </div>
+</body>
